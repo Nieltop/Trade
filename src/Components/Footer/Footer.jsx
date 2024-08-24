@@ -10,7 +10,7 @@ const Footer = () => {
                     <p className="Copyright-text">Copyrightfimisola.2024</p>
                 </div>
                 <div className="Media">
-                    <img src="img/Twitter.png" alt="" className="Twitter"/>
+                    <img src="/assets/img/Twitter.png" alt="" className="Twitter"/>
                     <img src="img/Facebook.png" alt="" className="Facebook"/>
                     <img src="img/Instagram.png" alt="" className="Instagram"/>
                 </div>
