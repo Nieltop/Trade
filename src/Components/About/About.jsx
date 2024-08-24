@@ -15,7 +15,7 @@ const About = () => {
                     </button>
                 </div>
 
-                <img src="img/Business.png" alt="" className="Me-image"/>
+                <img src="/assets/img/Business.png" alt="" className="Me-image"/>
 
             </div>
 

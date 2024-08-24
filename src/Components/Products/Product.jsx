@@ -4,7 +4,7 @@ const Product = () => {
         <>
             <div className="Start">
 
-                <img src="img/Candlestick.png" alt="" className="Start-image"/>
+                <img src="/assets/img/Candlestick.png" alt="" className="Start-image"/>
                 <div className="Start-writeup">
                     <h3 className="Start-heading">
                         Start learning, <br /> Start earning.
